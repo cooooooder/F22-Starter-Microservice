@@ -40,6 +40,7 @@ def t2():
         print("\n\n Epic, Epic, Epic Fail. Exception = ", e, "\n\n")
         print("\n")
 
+
 if __name__ == "__main__":
     t2()
 
